@@ -1,13 +1,10 @@
 ### Hi there, I'm Raj - aka [bL1nK][website] 👋
+## About ME 🚀
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://psykrypt.github.io/cv/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ChinagundiRaj)
-
-## I'm a Web Developer, Machine Learning and Deep Learning enthusiast!!
-
+- 🎓 I’m a sophomore pursuing my Bachelors in Electronics & Communication Engineering.
+- 👨‍💻 I am passionate about Web Dev, Machine Learning and AI.
+- 🌱 I’m currently trying to enhance my skills in the field of Computer Vision.
 - 🔭 I have a Youtube Channel: [R4 AI][course]!
-- 🌱 I’m currently trying to enhance my skills in the field of Computer Vision
-- 👯 I’m looking forward to connect with more people ,learn and grow together
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ For Fun: I love to play FPS games and watch Web Series
 
@@ -33,13 +30,6 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-
-[<img align="left" alt="Matplotlib" width="26px" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" />]
-[<img align="left" alt="Matplotlib" width="26px" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" />]
-[<img align="left" alt="Matplotlib" width="26px" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" />]
-[<img align="left" alt="Matplotlib" width="26px" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg" />]
-[<img align="left" alt="Keras" width="26px" src="https://github.com/valohai/ml-logos/blob/master/keras.svg" />]
-
 <br />
 <br />
 
@@ -70,4 +60,4 @@
 [twitter]: https://twitter.com/ChinagundiRaj
 [youtube]: https://www.youtube.com/channel/UCNSafXd4krHl8M17af4lABg
 [instagram]: https://www.instagram.com/rajchinagundi/
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/basavrajchinagundi/
