@@ -1,16 +1,10 @@
-### Hi there, I'm Raj - aka [bL1nK][website] 👋
+### Hi there, I'm Raj [website] 👋
+
 ## About ME 🚀
 
-<<<<<<< HEAD
 - 🎓 I’m a sophomore pursuing my Bachelors in Electronics & Communication Engineering.
 - 👨‍💻 I am passionate about Web Dev, Machine Learning and AI.
 - 🌱 I’m currently trying to enhance my skills in the field of Computer Vision.
-=======
-
-
-## I'm a Web Developer, Machine Learning and Deep Learning enthusiast!!
-
->>>>>>> efeb4a061664dc7b68709c6ccedba73ab165b6ca
 - 🔭 I have a Youtube Channel: [R4 AI][course]!
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ For Fun: I love to play FPS games and watch Web Series
@@ -37,12 +31,8 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-<<<<<<< HEAD
 <br />
 <br />
-=======
-
->>>>>>> efeb4a061664dc7b68709c6ccedba73ab165b6ca
 
 ---
 
